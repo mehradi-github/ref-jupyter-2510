@@ -1,3 +1,3 @@
 # Machine learning in python
 
-Using python's libs for machine learning with jupyter notebook.
+Using python's libs (Numpy,pandas,sckit-learn and matplotlib) for machine learning with jupyter notebook.
